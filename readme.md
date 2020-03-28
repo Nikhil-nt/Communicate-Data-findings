@@ -1,8 +1,6 @@
 # Filghts Dataset
-## by Nikhil
 
-
-## Dataset
+## Dataset Overview
 
 This dataset reports flights in the United States, including carriers, arrival and departure delays and reasons for delays for the year 1987.
 
@@ -23,7 +21,6 @@ I have plotted Pairgrid plots in the 2nd step to further investigate ,out of 16 
 The last step was heatmaps which gave me the same results. 
 
 ## Key Insights for Presentation
-
 
 I would recommend line plot and the heatmaps to polish for my presentation.In the bivariate investigation i would recommend line plots for DepDelay and ArrDelay.Line plots are clean and easy for anyone to understand. it clearly shows the correlation of 2 variables.
 
