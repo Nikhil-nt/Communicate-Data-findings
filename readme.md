@@ -6,8 +6,6 @@ This dataset reports flights in the United States, including carriers, arrival a
 
 ## Summary of Findings
 
-
-
 I am intrested to find out the features involved in the arrivals delay of the flight. To investigate the ArrDelay I would take the help of additional variables like distance, departure delay and diverted. I have taken the first step of Univariate exploration where i represented indiviaual variables on a histogram,the first variable was ArrDelay where i had to reduce the bin size to make it look spread.
 The second variable is Distance variable there was a transformation which i had taken to make the distribution look normal.
 The 3rd variable was DepDelay variable which was a normal distribution.
@@ -25,3 +23,11 @@ The last step was heatmaps which gave me the same results.
 I would recommend line plot and the heatmaps to polish for my presentation.In the bivariate investigation i would recommend line plots for DepDelay and ArrDelay.Line plots are clean and easy for anyone to understand. it clearly shows the correlation of 2 variables.
 
 For multivariate exploration, i would prefer heatmaps because pairplots and scatterplots with positional encodings would be confusing heatmaps shows that darker boxes means it has stronger relationship and a color legend is also given on the right side also shows the depth of relationship based on the color darkness making it easier to understand. The further investigation through multivariate plots satisfies the condition results of bivariate exploration.
+
+Requirements
+Numpy 
+Pandas
+Matplotlib
+Seaborn
+
+
