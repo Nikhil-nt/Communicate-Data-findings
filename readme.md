@@ -24,10 +24,10 @@ I would recommend line plot and the heatmaps to polish for my presentation.In th
 
 For multivariate exploration, i would prefer heatmaps because pairplots and scatterplots with positional encodings would be confusing heatmaps shows that darker boxes means it has stronger relationship and a color legend is also given on the right side also shows the depth of relationship based on the color darkness making it easier to understand. The further investigation through multivariate plots satisfies the condition results of bivariate exploration.
 
-Requirements
-Numpy 
-Pandas
-Matplotlib
-Seaborn
+## Requirements
+* Numpy 
+* Pandas
+* Matplotlib
+* Seaborn
 
 
